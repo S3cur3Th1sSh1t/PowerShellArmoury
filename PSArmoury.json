@@ -2,42 +2,14 @@
     {
         "Name":  "PowerSploit",
         "Type":  "GitHubRepo",
-        "URL":  "https://api.github.com/repos/PowerShellMafia/PowerSploit",
+        "URL":  "https://api.github.com/repos/S3cur3Th1sSh1t/Creds",
         "Branch": "dev",
 		"FileInclusionFilter":	"*.ps1",
         "FileExclusionFilter":	["*.tests.ps1"]
     },
     {
-        "Name":  "Invoke-TheHash",
-        "Type":  "GitHubRepo",
-        "URL":  "https://api.github.com/repos/Kevin-Robertson/Invoke-TheHash",
-		"FileInclusionFilter":	"*.ps1",
-		"FileExclusionFilter":	""
-    },
-    {
-        "Name":  "Inveigh",
-        "Type":  "GitHubRepo",
-        "URL":  "https://api.github.com/repos/Kevin-Robertson/Inveigh",
-		"FileInclusionFilter":	"*.ps1",
-		"FileExclusionFilter":	""
-    },
-    {
-        "Name":  "Powermad",
-        "Type":  "GitHubRepo",
-        "URL":  "https://api.github.com/repos/Kevin-Robertson/powermad",
-		"FileInclusionFilter":	"*.ps1",
-		"FileExclusionFilter":	""
-    },
-    {
         "Name":  "Sharphound",
         "Type":  "GitHubItem",
         "URL":  "https://github.com/BloodHoundAD/BloodHound/raw/master/Ingestors/SharpHound.ps1"
-    },
-    {
-        "Name":  "PoshRandom",
-        "Type":  "GitHubRepo",
-        "URL":  "https://api.github.com/repos/cfalta/PoshRandom",
-        "FileInclusionFilter":	"*.ps1",
-		"FileExclusionFilter":	""
     }
 ]
